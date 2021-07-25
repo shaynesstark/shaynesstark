@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS, Android and Web development
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on any new projects
-- 📫 How to reach me info@dopeaf.tech
+- 📫 How to reach me shaynesstark@gmail.com
 
 <!---
 shaynesstark/shaynesstark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
