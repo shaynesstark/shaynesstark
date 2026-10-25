@@ -1,4 +1,4 @@
-# Hey, I'm Shayne Stark 👋
+# Hey, I'm Shayne 👋
 
 ### Co-Founder & CEO of TABL
 
